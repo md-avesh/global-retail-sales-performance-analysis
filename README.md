@@ -39,7 +39,7 @@ This project analyzes global retail sales data to identify business trends, cust
 
 - ## 📸 Dashboard Preview
 - Interactive Executive Dashboard built using Microsoft Excel.
-- ![Dashboard Preview] Final Dashboard Best Part.jpeg
+- ![Dashboard Preview] (Final Dashboard Best Part.jpeg).
 - > Interactive Executive Dashboard developed using Microsoft Excel and Power Query.
 
 - ## 📊 Dashboard Features
