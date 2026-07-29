@@ -39,10 +39,11 @@ This project analyzes global retail sales data to identify business trends, cust
 
 - ## 📸 Dashboard Preview
 - Interactive Executive Dashboard built using Microsoft Excel.
-- ![Dashboard Preview](Images/Final%20Dashboard%20Best%20Part.jpeg)
-- > Interactive Executive Dashboard developed using Microsoft Excel and Power Query.
+  ![Project Cover](Images/Final%20Dashboard%20github.jpeg)
 
-- ## 📊 Dashboard Features
+# 🌍 Global Retail Sales Performance Analysis
+
+Interactive Executive Sales Dashboard built using Microsoft Excel and Power Query.
 - - Revenue KPI
 - Orders KPI
 - Customer KPI
